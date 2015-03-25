@@ -1,7 +1,7 @@
 Learning a little inglish
 
 http://www.bay12games.com/dwarves/dev_2004.html
-10/4/2004
+11/28/2004
 
 
 

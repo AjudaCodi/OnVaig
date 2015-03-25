@@ -13,3 +13,31 @@ Coses que fa el 2004
 - Creat la guardia reial per la bandera.
 - Impostos.
 - Recolectors d'impostos.
+- mandats ? 10/23/2004
+- Creació de tumbes
+- Creació de:
+	- Sheriff
+	- Amartillador
+	- Guardia de la fortaleza
+- Creació de la pesó
+- Govern
+- Creació de jugets bàsics
+- Creació d'instuments musicals
+- Soldats tenen la capacitat de deixar de funcionar
+- Civil-militar
+- Escuadrones
+- Corregit bago
+- Mapa comprimit ? 11/13/2004
+- Soporta diferents grups de comerciants
+- Afegeix insectes dels mercans
+- Millora els bens dels comerciants
+- Millora de mascotes ? 11/21/2004
+- Jaula per mascotes
+- Recuperació de mascotes
+- Ara les mascotes poden fer travesures
+- Comerciants poden vendre les seves mascotes
+- Inici del joc, ara pots comprar unitats
+- ? 11/26/2004
+- Fixat l'humor
+- Insectes d'artefactes
+- Millora en la generació d'artefactes
